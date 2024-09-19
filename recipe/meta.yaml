@@ -1,19 +1,15 @@
 package:
   name: prefect-test-dependency
   version: 1.0
-
 source:
   path: ../src
-
 build:
-  number: 2
-
+  number: 3
 about:
   home: https://github.com/AnacondaRecipes/prefect-test-dependency-feedstock
   license_file: LICENSE
   license: BSD-3-Clause
   license_family: BSD
-
 extra:
   recipe-maintainers:
     - dkomisar
