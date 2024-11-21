@@ -1,12 +1,12 @@
 package:
-  name: prefect-test-dependency
+  name: qa-prefect-test-dependency
   version: 1.0
 source:
   path: ../src
 build:
-  number: 39
+  number: 1
 about:
-  home: https://github.com/AnacondaRecipes/prefect-test-dependency-feedstock
+  home: https://github.com/AnacondaRecipes/qa-prefect-test-dependency-feedstock
   license_file: LICENSE
   license: BSD-3-Clause
   license_family: BSD
